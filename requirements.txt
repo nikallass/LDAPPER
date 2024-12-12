@@ -3,3 +3,4 @@ PyYAML
 colorama
 impacket==0.9.23
 pyOpenSSL
+pycrypto
